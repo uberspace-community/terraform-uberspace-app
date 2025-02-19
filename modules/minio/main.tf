@@ -2,7 +2,7 @@ terraform {
   required_providers {
     uberspace = {
       source  = "uberspace-community/uberspace"
-      version = "0.0.1-alpha.3"
+      version = "0.1.0"
     }
   }
 }
